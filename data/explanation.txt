@@ -1,0 +1,7 @@
+18CS all releases - all instances of the Code smells. 
+We retrived all smells that the tools supprted, including a lot that we did not use, hence the missing ids.
+
+18CS_suvival_format - unique instances of CS, in survival format
+6CS_suvival_format - unique instances of CS, in survival format (subset of 6 CS for RQ3)
+
+versions - all version studies with dates
