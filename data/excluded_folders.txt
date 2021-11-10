@@ -1,0 +1,14 @@
+
+
+phpmyadmin: doc,examples,locale,sql,vendor,contrib,pmd
+dokuwiki: doc,examples,locale,sql,vendor,contrib,pmd,tests,test,_test,_cs
+opencart: doc,examples,locale,sql,vendor,contrib,pmd,tests
+phpbb: doc,examples,locale,sql,vendor,contrib,pmd,tests
+phppgadmin: help,images,lang,libraries,xloadtree
+mediawiki: : docs,cache,vendor,images,languages,tests
+prestashop: cache,docs,loc,localization,tests,tests-legacy,translations,travis-scripts,upload,var,vendor,log
+vanilla: cache,confs,vendors,uploads,bin,build,locales,resources
+dolibarr: locale,langs,vendor,contrib,pmd,tests,test,includes,external-libs
+roundcubemail: locale,vendor,contrib,pmd,tests,test,misc,SQL
+openemr: locale,vendor,contrib,pmd,phpmyadmin,tests,test
+kanboard: doc, locale, vendor,contrib,pmd,tests,test,misc
