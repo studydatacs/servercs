@@ -2,7 +2,7 @@
 
 
 Replication kit and extra documents for article:<br>
-"PHP code smells in web apps: evolution, survival and anomalies"
+**PHP code smells in web apps: evolution, survival and anomalies**
 
 Folder RQ1-5 - Extra graphics for all aplications studied. In the article, due to lack of space, we only present graphics for two aplications.
 
