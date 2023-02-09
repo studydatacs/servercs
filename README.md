@@ -1,6 +1,6 @@
 # servercs
 
-##Title:
+## Title:
 
 Replication kit and extra documents for article:
 
@@ -8,7 +8,7 @@ Replication kit and extra documents for article:
 
 * * Americo Rio(ISTAR-ISCTE, NOVAIMS), Fernando Brito e Abreu(ISTAR-ISCTE)
 
-##Contents:
+## Contents:
 
 Folder RQ1-5 - Extra graphics for all aplications studied. In the article, due to lack of space, we only present graphics for two aplications.
 
