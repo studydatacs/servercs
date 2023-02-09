@@ -10,10 +10,10 @@ Americo Rio(ISTAR-ISCTE, NOVAIMS), Fernando Brito e Abreu(ISTAR-ISCTE)
 
 ## Contents:
 
-Folder RQ1-5 - Extra graphics for all aplications studied. In the article, due to lack of space, we only present graphics for two aplications.
+Folder RQ1-5 - Extra graphics for all applications studied. In the article, due to lack of space, we only present graphics for two applications.
 
 Folder data - data used in the study and suitable for replication. The folder is divided in subfolders and there is an "explanation.txt".
 
-scripts.zip - php scripts used to pre process data
+scripts.zip - PHP scripts used to pre-process data
 
 R scripts.zip - R scripts used to analyze and graphics
