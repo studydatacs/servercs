@@ -6,7 +6,7 @@ Replication package and extra documents for article:
 
 **PHP code smells in web apps: evolution, survival and anomalies**
 
-* *Americo Rio(ISTAR-ISCTE, NOVAIMS), Fernando Brito e Abreu(ISTAR-ISCTE)
+Americo Rio(ISTAR-ISCTE, NOVAIMS), Fernando Brito e Abreu(ISTAR-ISCTE)
 
 ## Contents:
 
